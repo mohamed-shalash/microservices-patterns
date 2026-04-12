@@ -201,34 +201,7 @@ iam always forget
 * Scalable microservices → Kafka Event-driven architecture
 * Prototype / demo → Scheduled job
 
----
 
-#  Tech Stack
-
-* Java
-* Spring Boot
-* Spring Data JPA
-* MySQL
-* Apache Kafka (optional)
-* Docker (optional)
-
----
-
-# Key Concepts Demonstrated
-
-* CQRS pattern
-* Separate write and read models
-* Dual datasource configuration
-* Independent transaction managers
-* Event-driven architecture
-* Eventual consistency
-
----
-
-# 👨‍💻 Author
-
-Mohamed Shalash
-Backend Engineer | Distributed Systems Enthusiast
 
 
 

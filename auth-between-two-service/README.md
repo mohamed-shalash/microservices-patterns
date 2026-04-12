@@ -94,7 +94,7 @@ Payment Service
 
 | Feature                | JWT Forwarding                        | Client Credentials           |
 | ---------------------- | --------------------------------------| ---------------------------- |
-| User needed?           | ✅ Yes                                | ❌ No                       |
+| User needed?           |  Yes                                  |  No                       |
 | Authentication flow    | User→ auth → User → Order → Payment   | Order → Auth → Payment       |
 | Use case               | User-specific access                  | Service-to-service access    |
 

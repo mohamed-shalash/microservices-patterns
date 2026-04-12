@@ -4,21 +4,25 @@ A collection of production-oriented microservices design patterns implemented us
 
 ## Implemented Patterns
 
+- Kafka Event-Driven Communication
 - Saga Pattern (Orchestration & Choreography)
 - Outbox Pattern
 - Event Sourcing
 - Sidecar Pattern
 - Aggregator Pattern
-- Kafka Event-Driven Communication
 - JWT-based Authentication
 
-Each module is an independent Spring Boot service demonstrating distributed systems concepts including:
-
-- Event-driven communication
-- Service isolation
-- Data consistency strategies
-- Failure handling & compensation logic
-- Stateless authentication
+## order to read
+1.jwt-auth
+2.kafka-demo
+3.saga-choreography-pattern
+4.saga-orchestrator-pattern
+5.sidecar-pattern
+6.outbox-pattern
+7.event-sourcing
+8.CQRS
+9.aggregator-pattern
+10.auth-between-two-service
 
 ## Tech Stack
 
