@@ -4,13 +4,16 @@ A collection of production-oriented microservices design patterns implemented us
 
 ## Implemented Patterns
 
-- Kafka Event-Driven Communication
-- Saga Pattern (Orchestration & Choreography)
-- Outbox Pattern
-- Event Sourcing
-- Sidecar Pattern
-- Aggregator Pattern
-- JWT-based Authentication
+✔ JWT Authentication
+✔ Secure Service-to-Service Authentication
+✔ Kafka Event-Driven Communication
+✔ Saga Pattern (Orchestration)
+✔ Saga Pattern (Choreography)
+✔ CQRS
+✔ Event Sourcing
+✔ Outbox Pattern
+✔ Aggregator Pattern
+✔ Sidecar Pattern
 
 ## order to read
 1.jwt-auth
